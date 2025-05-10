@@ -9,18 +9,15 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de782ee4-4a8a-41fa-bd9f-3b33b60eb91f" name="Changes" comment="Column Demo">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/programmingkeeda/myjetpackcompose/AppBarActivity.kt" afterDir="false" />
+    <list default="true" id="de782ee4-4a8a-41fa-bd9f-3b33b60eb91f" name="Changes" comment="Appbar Demo">
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/programmingkeeda/myjetpackcompose/AppBarActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/programmingkeeda/myjetpackcompose/AppBarActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,14 +262,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746724043417</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Appbar Demo">
+      <option name="closed" value="true" />
+      <created>1746811135448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746811135448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="TextView Demo" />
     <MESSAGE value="Column Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Column Demo" />
+    <MESSAGE value="Appbar Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Appbar Demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -290,12 +296,12 @@
       <map>
         <entry key="com.programmingkeeda.myjetpackcompose">
           <value>
-            <CheckInfo lastCheckTimestamp="1746638000742" />
+            <CheckInfo lastCheckTimestamp="1746810928076" />
           </value>
         </entry>
         <entry key="com.programmingkeeda.myjetpackcompose.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1746638000922" />
+            <CheckInfo lastCheckTimestamp="1746810928082" />
           </value>
         </entry>
       </map>
