@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">My Jetpack Compose</string>
     <string name="title_activity_row">RowActivity</string>
+    <string name="title_activity_text_letter_spacing_demo">TextLetterSpacingDemo</string>
+    <string name="title_activity_dashboard_ui_design">DashboardUiDesign</string>
+    <string name="title_activity_image_view">ImageViewActivity</string>
 </resources>
